@@ -1,0 +1,11 @@
+.incompletebtg{
+    background-color: rgb(234, 234, 40);
+}
+
+.completebtg {
+    background-color: rgb(37, 105, 37);
+}
+
+.formattaskname {
+    font-size: large;
+}
